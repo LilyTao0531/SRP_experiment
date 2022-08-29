@@ -257,3 +257,23 @@ instance 5_54.txt << feasible >>
 instance 5_602.txt << feasible >>
 
 instance 5_950.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
