@@ -1,0 +1,141 @@
+
+Gurobi 9.1.1 (mac64) logging started Thu Jul 21 12:43:04 2022
+
+Changed value of parameter LogFile to /Users/user/SRPproject/Cplex_copy/results_m2/10_503.txt
+   Prev:   Default: 
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 4 physical cores, 8 logical processors, using up to 4 threads
+Optimize a model with 3169 rows, 594 columns and 12086 nonzeros
+Model fingerprint: 0xdbc4efb7
+Variable types: 132 continuous, 462 integer (462 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [2e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 562 rows and 101 columns
+Presolve time: 0.10s
+Presolved: 2607 rows, 493 columns, 17413 nonzeros
+Variable types: 124 continuous, 369 integer (369 binary)
+Found heuristic solution: objective 1055.0000000
+
+Root relaxation: objective 3.895280e+02, 218 iterations, 0.06 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  389.52799    0   33 1055.00000  389.52799  63.1%     -    0s
+     0     0  426.68367    0   38 1055.00000  426.68367  59.6%     -    0s
+     0     0  426.77380    0   39 1055.00000  426.77380  59.5%     -    0s
+     0     0  426.77380    0   40 1055.00000  426.77380  59.5%     -    0s
+H    0     0                     905.0000000  426.77380  52.8%     -    0s
+     0     0  436.98148    0   42  905.00000  436.98148  51.7%     -    0s
+     0     0  438.86521    0   48  905.00000  438.86521  51.5%     -    0s
+     0     0  439.20696    0   48  905.00000  439.20696  51.5%     -    0s
+     0     0  439.22991    0   49  905.00000  439.22991  51.5%     -    0s
+     0     0  439.22991    0   49  905.00000  439.22991  51.5%     -    0s
+     0     0  454.50688    0   48  905.00000  454.50688  49.8%     -    0s
+     0     0  455.56153    0   43  905.00000  455.56153  49.7%     -    0s
+     0     0  455.62681    0   42  905.00000  455.62681  49.7%     -    0s
+     0     0  464.00000    0   37  905.00000  464.00000  48.7%     -    0s
+     0     0  464.00000    0   39  905.00000  464.00000  48.7%     -    0s
+     0     0  464.00000    0   39  905.00000  464.00000  48.7%     -    0s
+     0     0  464.00000    0   34  905.00000  464.00000  48.7%     -    0s
+     0     0  464.14286    0   34  905.00000  464.14286  48.7%     -    0s
+     0     0  464.18576    0   34  905.00000  464.18576  48.7%     -    0s
+     0     0  464.19262    0   34  905.00000  464.19262  48.7%     -    0s
+     0     0  464.24193    0   34  905.00000  464.24193  48.7%     -    0s
+     0     0  464.24193    0   34  905.00000  464.24193  48.7%     -    0s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    0s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    0s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    0s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    1s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    1s
+     0     0  464.50000    0   34  905.00000  464.50000  48.7%     -    1s
+     0     2  465.00000    0   34  905.00000  465.00000  48.6%     -    1s
+H  193   143                     893.0000000  466.26988  47.8%  30.6    1s
+H  273   180                     844.0000000  466.26988  44.8%  30.7    1s
+H  310   197                     815.0000000  466.26988  42.8%  32.1    2s
+  1044   633  516.43054   15   52  815.00000  474.95187  41.7%  34.2    5s
+H 1302   719                     812.0000000  481.55164  40.7%  44.2    9s
+  1303   735  599.67705   53   27  812.00000  481.55164  40.7%  44.2   10s
+H 1512   759                     805.0000000  481.55164  40.2%  44.5   11s
+  4020  2429  645.46441   60   22  805.00000  501.20000  37.7%  47.4   15s
+  8673  5986 infeasible   80       805.00000  512.81006  36.3%  47.2   20s
+ 12090  8421  623.20682   24   30  805.00000  522.31800  35.1%  48.8   25s
+H14484  9935                     800.0000000  527.49587  34.1%  49.2   28s
+ 15704 11121  576.82803   30   39  800.00000  530.07143  33.7%  49.3   30s
+ 20227 14373  639.51220   31   41  800.00000  535.50000  33.1%  49.8   35s
+ 20662 14374  630.54036   36   34  800.00000  535.78365  33.0%  49.7   47s
+ 20680 14386  668.40476   47   61  800.00000  535.78365  33.0%  49.6   50s
+ 20701 14400  614.88450   43   70  800.00000  535.78365  33.0%  49.6   55s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 6
+  Cover: 6
+  Implied bound: 13
+  Projected implied bound: 9
+  Clique: 1
+  MIR: 17
+  StrongCG: 1
+  Flow cover: 83
+  Zero half: 15
+  RLT: 2
+  Relax-and-lift: 6
+
+Explored 20716 nodes (1031378 simplex iterations) in 60.01 seconds
+Thread count was 4 (of 8 available processors)
+
+Solution count 8: 800 805 812 ... 1055
+
+Time limit reached
+Best objective 8.000000000000e+02, best bound 5.360000000000e+02, gap 33.0000%
+
+User-callback calls 72452, time in user-callback 0.22 sec
+status is:9
+Optimal tour: [0, 2, 9, 19, 12, 8, 18, 7, 17, 5, 3, 15, 10, 20, 4, 13, 14, 1, 11, 6, 16, 21]
+Optimal cost: 800.0
+Seats changes: {0: 1.0, 1: 2.0, 2: 1.0, 3: 1.0, 4: 2.0, 5: -4.0, 6: 1.0, 7: 2.0, 8: 0.0, 9: -2.0, 10: -3.0, 11: -2.0, 12: -1.0, 13: 0.0, 14: 0.0, 15: 3.0, 16: 0.0, 17: 2.0, 18: 0.0, 19: 2.0, 20: -2.0, 21: -0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 1 is 2.0
+number of seats picked up at base 2 is 1.0
+number of seats picked up at base 3 is 1.0
+number of seats picked up at base 4 is 2.0
+number of seats picked up at base 6 is 1.0
+number of seats picked up at base 7 is 2.0
+number of seats picked up at base 15 is 3.0
+number of seats picked up at base 17 is 2.0
+number of seats picked up at base 19 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 17.0
+arrival time of vertex 2 is 1.0
+arrival time of vertex 3 is 10.0
+arrival time of vertex 4 is 14.0
+arrival time of vertex 5 is 9.0
+arrival time of vertex 6 is 19.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 5.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 12.0
+arrival time of vertex 11 is 18.0
+arrival time of vertex 12 is 4.0
+arrival time of vertex 13 is 15.0
+arrival time of vertex 14 is 16.0
+arrival time of vertex 15 is 11.0
+arrival time of vertex 16 is 20.0
+arrival time of vertex 17 is 8.0
+arrival time of vertex 18 is 6.0
+arrival time of vertex 19 is 3.0
+arrival time of vertex 20 is 13.0
+total time: 60.13
+Final MIP gap value:0.33
+Checking:
+Remaining cargo space:{0: 700.0, 1: 500.0, 2: 600.0, 3: 200.0, 4: 600.0, 5: 200.0, 6: 500.0, 7: 600.0, 8: 600.0, 9: 0.0, 10: 100.0, 11: 0.0, 12: 0.0, 13: 0.0, 14: 100.0, 15: 0.0, 16: 0.0, 17: 0.0, 18: 300.0, 19: 100.0, 20: 0.0, 21: 400.0}
+Remaining passenger space:
+{0: 1.0, 1: 3.0, 2: 2.0, 3: 0.0, 4: 0.0, 5: 6.0, 6: 3.0, 7: 2.0, 8: 2.0, 9: 3.0, 10: 5.0, 11: 2.0, 12: 3.0, 13: 2.0, 14: 3.0, 15: 0.0, 16: 3.0, 17: 1.0, 18: 0.0, 19: 0.0, 20: 2.0, 21: 4.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 0.0, 3: 2.0, 4: 1.0, 5: 0.0, 6: 0.0, 7: 0.0, 8: 0.0, 9: 0.0, 10: 1.0, 11: 3.0, 12: 0.0, 13: 1.0, 14: 0.0, 15: 3.0, 16: 1.0, 17: 3.0, 18: 2.0, 19: 1.0, 20: 1.0, 21: 2.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 100.0, 5: 0.0, 6: 0.0, 7: 0.0, 8: 0.0, 9: 500.0, 10: 100.0, 11: 300.0, 12: 500.0, 13: 500.0, 14: 400.0, 15: 500.0, 16: 400.0, 17: 400.0, 18: 300.0, 19: 600.0, 20: 500.0, 21: 800.0}

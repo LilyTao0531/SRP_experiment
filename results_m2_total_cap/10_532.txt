@@ -1,0 +1,29 @@
+
+Gurobi 9.1.1 (mac64) logging started Tue Jul 19 18:49:38 2022
+
+Changed value of parameter LogFile to /Users/user/SRPproject/Cplex_copy/results_m2_total_cap/10_532.txt
+   Prev:   Default: 
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 1820 rows, 572 columns and 6399 nonzeros
+Model fingerprint: 0x3ebab519
+Variable types: 110 continuous, 462 integer (462 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [4e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+Presolve removed 253 rows and 105 columns
+Presolve time: 0.02s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 8 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+User-callback calls 41, time in user-callback 0.00 sec
+Warning: linear constraint 475 and linear constraint 495 have the same name "subtour_elimination_domain1"
+No solution is found

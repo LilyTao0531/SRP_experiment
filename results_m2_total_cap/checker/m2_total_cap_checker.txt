@@ -1,0 +1,17 @@
+
+
+checking /home/lily/Cplex_copy/results_m2_total_cap_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m2_total_cap_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m2_total_cap_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m2_total_cap_5_950.txt
+
+instance 5_950.txt << feasible >>

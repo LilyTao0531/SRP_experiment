@@ -1,0 +1,259 @@
+
+
+instance 5_950.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 15_147.txt << invalid >> (vehicle capacity is violated at location 5 due to pass_cap)
+
+instance 5_944.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 20_379.txt << feasible >>
+
+instance 20_719.txt << feasible >>
+
+instance 20_500.txt << feasible >>
+
+instance 20_238.txt << feasible >>
+
+instance 20_638.txt << feasible >>
+
+instance 20_831.txt << feasible >>
+
+instance 20_837.txt << feasible >>
+
+instance 20_635.txt << feasible >>
+
+instance 20_183.txt << feasible >>
+
+instance 20_419.txt << feasible >>
+
+instance 20_739.txt << feasible >>
+
+instance 20_200.txt << feasible >>
+
+instance 20_935.txt << feasible >>
+
+instance 20_369.txt << feasible >>
+
+instance 20_20.txt << feasible >>
+
+instance 4_857.txt << feasible >>
+
+instance 4_732.txt << feasible >>
+
+instance 4_254.txt << feasible >>
+
+instance 4_337.txt << feasible >>
+
+instance 4_914.txt << feasible >>
+
+instance 4_858.txt << feasible >>
+
+instance 4_890.txt << feasible >>
+
+instance 4_533.txt << feasible >>
+
+instance 4_865.txt << feasible >>
+
+instance 4_362.txt << feasible >>
+
+instance 4_657.txt << feasible >>
+
+instance 4_379.txt << feasible >>
+
+instance 4_329.txt << feasible >>
+
+instance 4_64.txt << feasible >>
+
+instance 4_900.txt << feasible >>
+
+instance 4_290.txt << feasible >>
+
+instance 4_623.txt << feasible >>
+
+instance 4_511.txt << feasible >>
+
+instance 4_199.txt << feasible >>
+
+instance 4_91.txt << feasible >>
+
+instance 8_788.txt << feasible >>
+
+instance 8_838.txt << feasible >>
+
+instance 8_800.txt << feasible >>
+
+instance 8_537.txt << feasible >>
+
+instance 8_39.txt << feasible >>
+
+instance 8_759.txt << feasible >>
+
+instance 8_687.txt << feasible >>
+
+instance 8_691.txt << feasible >>
+
+instance 8_364.txt << feasible >>
+
+instance 8_982.txt << feasible >>
+
+instance 8_828.txt << feasible >>
+
+instance 8_365.txt << feasible >>
+
+instance 8_948.txt << feasible >>
+
+instance 8_59.txt << feasible >>
+
+instance 8_5.txt << feasible >>
+
+instance 8_674.txt << feasible >>
+
+instance 8_983.txt << feasible >>
+
+instance 8_571.txt << feasible >>
+
+instance 8_61.txt << feasible >>
+
+instance 8_928.txt << feasible >>
+
+instance 8_731.txt << feasible >>
+
+instance 15_708.txt << feasible >>
+
+instance 15_332.txt << feasible >>
+
+instance 15_798.txt << feasible >>
+
+instance 15_999.txt << feasible >>
+
+instance 15_74.txt << feasible >>
+
+instance 15_939.txt << feasible >>
+
+instance 15_153.txt << feasible >>
+
+instance 15_128.txt << feasible >>
+
+instance 15_334.txt << feasible >>
+
+instance 15_619.txt << feasible >>
+
+instance 15_777.txt << feasible >>
+
+instance 15_501.txt << feasible >>
+
+instance 15_379.txt << feasible >>
+
+instance 15_551.txt << feasible >>
+
+instance 15_823.txt << feasible >>
+
+instance 15_186.txt << feasible >>
+
+instance 15_873.txt << feasible >>
+
+instance 15_963.txt << feasible >>
+
+instance 15_189.txt << feasible >>
+
+instance 15_670.txt << feasible >>
+
+instance 15_147.txt << feasible >>
+
+instance 15_147.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 10_862.txt << feasible >>
+
+instance 10_954.txt << feasible >>
+
+instance 10_582.txt << feasible >>
+
+instance 10_843.txt << feasible >>
+
+instance 10_568.txt << feasible >>
+
+instance 10_563.txt << feasible >>
+
+instance 10_733.txt << feasible >>
+
+instance 15_266.txt << feasible >>
+
+instance 15_287.txt << feasible >>
+
+instance 15_43.txt << feasible >>
+
+instance 15_805.txt << feasible >>
+
+instance 15_733.txt << feasible >>
+
+instance 15_254.txt << feasible >>
+
+instance 15_263.txt << feasible >>
+
+instance 15_703.txt << feasible >>
+
+instance 15_147.txt << feasible >>
+
+instance 15_944.txt << feasible >>
+
+instance 20_263.txt << feasible >>
+
+instance 20_313.txt << feasible >>
+
+instance 20_65.txt << feasible >>
+
+instance 20_350.txt << feasible >>
+
+instance 20_179.txt << feasible >>
+
+instance 20_957.txt << feasible >>
+
+instance 20_820.txt << feasible >>
+
+instance 20_255.txt << feasible >>
+
+instance 20_361.txt << feasible >>
+
+instance 20_624.txt << feasible >>
+
+instance 5_914.txt << feasible >>
+
+instance 5_535.txt << feasible >>
+
+instance 5_597.txt << feasible >>
+
+instance 5_54.txt << feasible >>
+
+instance 5_602.txt << feasible >>
+
+instance 5_950.txt << feasible >>
