@@ -1,0 +1,234 @@
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 18 19:21:56 2022
+
+Changed value of parameter LogFile to /Users/user/SRPproject/Cplex_copy/results_m2_total_cap/8_711.txt
+   Prev:   Default: 
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 1202 rows, 396 columns and 4163 nonzeros
+Model fingerprint: 0x28e0a9ec
+Variable types: 90 continuous, 306 integer (306 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [3e+00, 9e+01]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+Presolve removed 367 rows and 96 columns
+Presolve time: 0.08s
+Presolved: 835 rows, 300 columns, 5177 nonzeros
+Variable types: 64 continuous, 236 integer (236 binary)
+Found heuristic solution: objective 626.0000000
+
+Root relaxation: objective 2.592833e+02, 104 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  259.28333    0   23  626.00000  259.28333  58.6%     -    0s
+     0     0  277.36309    0   39  626.00000  277.36309  55.7%     -    0s
+     0     0  278.08309    0   38  626.00000  278.08309  55.6%     -    0s
+H    0     0                     545.0000000  278.08309  49.0%     -    0s
+     0     0  287.94707    0   32  545.00000  287.94707  47.2%     -    0s
+     0     0  287.94707    0   32  545.00000  287.94707  47.2%     -    0s
+     0     0  294.50824    0   39  545.00000  294.50824  46.0%     -    0s
+     0     0  294.50824    0   39  545.00000  294.50824  46.0%     -    0s
+     0     0  296.00317    0   35  545.00000  296.00317  45.7%     -    0s
+     0     0  296.88683    0   35  545.00000  296.88683  45.5%     -    0s
+     0     0  296.88683    0   35  545.00000  296.88683  45.5%     -    0s
+     0     0  299.86667    0   39  545.00000  299.86667  45.0%     -    0s
+     0     0  300.40924    0   39  545.00000  300.40924  44.9%     -    0s
+     0     0  302.00000    0   39  545.00000  302.00000  44.6%     -    0s
+     0     0  302.25758    0   39  545.00000  302.25758  44.5%     -    0s
+     0     0  303.50000    0   39  545.00000  303.50000  44.3%     -    0s
+     0     0  303.71429    0   34  545.00000  303.71429  44.3%     -    0s
+     0     2  303.71429    0   34  545.00000  303.71429  44.3%     -    0s
+H  110   117                     532.0000000  303.71429  42.9%  13.8    0s
+H  605   396                     510.0000000  312.62500  38.7%  13.0    0s
+H 1367   774                     503.0000000  320.14286  36.4%  15.9    1s
+H 1371   741                     416.0000000  320.14286  23.0%  15.9    1s
+H 8311  3833                     415.0000000  334.64286  19.4%  16.8    3s
+ 13682  5665  368.21429   27   17  415.00000  340.35714  18.0%  16.6    5s
+ 29389 10027  383.95079   31   34  415.00000  349.82481  15.7%  16.4   10s
+ 29437 10059  370.21429   40   61  415.00000  349.82481  15.7%  16.4   15s
+ 35791 11096  374.62222   35   21  415.00000  349.82481  15.7%  16.8   20s
+ 56021 11588  394.59524   36   19  415.00000  350.50000  15.5%  17.2   25s
+ 75239 15783  364.90476   35   19  415.00000  356.28571  14.1%  17.5   30s
+
+Cutting planes:
+  Learned: 5
+  Gomory: 9
+  Cover: 5
+  Implied bound: 20
+  Projected implied bound: 3
+  Clique: 4
+  MIR: 65
+  StrongCG: 1
+  Flow cover: 200
+  GUB cover: 2
+  Inf proof: 14
+  Zero half: 16
+  RLT: 4
+  Relax-and-lift: 11
+
+Explored 75864 nodes (1328908 simplex iterations) in 30.01 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 415 416 503 ... 626
+
+Time limit reached
+Best objective 4.150000000000e+02, best bound 3.570000000000e+02, gap 13.9759%
+
+User-callback calls 161898, time in user-callback 0.24 sec
+Warning: linear constraint 317 and linear constraint 333 have the same name "subtour_elimination_domain1"
+
+seats:
+
+Seats changes: {0: 0.0, 1: -2.0, 7: 3.0, 15: -3.0, 8: 0.0, 9: -1.0, 6: 0.0, 16: 3.0, 3: -3.0, 14: -1.0, 11: 1.0, 4: 2.0, 12: 2.0, 5: -3.0, 13: 0.0, 2: 0.0, 10: 0.0}
+Sigma: {0: 4.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 1.0, 10: 2.0, 11: 1.0, 12: 5.0, 13: 2.0, 14: 0.0, 15: 2.0, 16: 4.0, 17: 6.0}
+Optimal tour: [0, 1, 7, 15, 8, 9, 6, 16, 3, 14, 11, 4, 12, 5, 13, 2, 10, 17]
+Optimal cost: 415.0
+edges:
+(0, 1): 1.0, (1, 7): 1.0, (2, 10): 1.0, (3, 14): 1.0, (4, 12): 1.0, (5, 13): 1.0, (6, 16): 1.0, (7, 15): 1.0, (8, 9): 1.0, (9, 6): 1.0, (10, 17): 1.0, (11, 4): 1.0, (12, 5): 1.0, (13, 2): 1.0, (14, 11): 1.0, (15, 8): 1.0, (16, 3): 1.0, 
+arrival time:
+
+arrival time of vertex: 11.0
+arrival time of vertex: 215.0
+arrival time of vertex: 38.0
+arrival time of vertex: 411.0
+arrival time of vertex: 513.0
+arrival time of vertex: 66.0
+arrival time of vertex: 72.0
+arrival time of vertex: 84.0
+arrival time of vertex: 95.0
+arrival time of vertex: 1016.0
+arrival time of vertex: 1110.0
+arrival time of vertex: 1212.0
+arrival time of vertex: 1314.0
+arrival time of vertex: 149.0
+arrival time of vertex: 153.0
+arrival time of vertex: 167.0
+total time: 30.06
+Final MIP gap value: 0.13975903614457832
+time to find feasible solution is 30.016454935073853
+Checking:
+current passenger:{0: 0.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 0.0, 10: 0.0, 11: 0.0, 12: 0.0, 13: 0.0, 14: 0.0, 15: 2.0, 16: 1.0, 17: 6.0}
+current cargo:{0: 0.0, 1: 200.0, 2: 600.0, 3: 0.0, 4: 500.0, 5: 400.0, 6: 400.0, 7: 200.0, 8: 600.0, 9: 400.0, 10: 0.0, 11: 0.0, 12: 0.0, 13: 0.0, 14: 0.0, 15: 200.0, 16: 0.0, 17: 200.0}
+room for cargo:{0: 400.0, 1: 600.0, 2: 600.0, 3: 700.0, 4: 500.0, 5: 600.0, 6: 700.0, 7: 300.0, 8: 600.0, 9: 700.0, 10: 600.0, 11: 700.0, 12: 300.0, 13: 600.0, 14: 800.0, 15: 600.0, 16: 400.0, 17: 200.0}
+room for passengers:{0: 4.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 1.0, 10: 2.0, 11: 1.0, 12: 5.0, 13: 2.0, 14: 0.0, 15: 2.0, 16: 4.0, 17: 6.0}
+
+Gurobi 9.1.1 (mac64) logging started Mon Jul 18 19:25:18 2022
+
+Changed value of parameter LogFile to /Users/user/SRPproject/Cplex_copy/results_m2_total_cap/8_711.txt
+   Prev:   Default: 
+Gurobi Optimizer version 9.1.1 build v9.1.1rc0 (mac64)
+Thread count: 4 physical cores, 8 logical processors, using up to 8 threads
+Optimize a model with 1202 rows, 396 columns and 4163 nonzeros
+Model fingerprint: 0x28e0a9ec
+Variable types: 90 continuous, 306 integer (306 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+03]
+  Objective range  [3e+00, 9e+01]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+Presolve removed 367 rows and 96 columns
+Presolve time: 0.03s
+Presolved: 835 rows, 300 columns, 5177 nonzeros
+Variable types: 64 continuous, 236 integer (236 binary)
+Found heuristic solution: objective 626.0000000
+
+Root relaxation: objective 2.592833e+02, 104 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  259.28333    0   23  626.00000  259.28333  58.6%     -    0s
+     0     0  277.36309    0   39  626.00000  277.36309  55.7%     -    0s
+     0     0  278.08309    0   38  626.00000  278.08309  55.6%     -    0s
+H    0     0                     545.0000000  278.08309  49.0%     -    0s
+     0     0  287.94707    0   32  545.00000  287.94707  47.2%     -    0s
+     0     0  287.94707    0   32  545.00000  287.94707  47.2%     -    0s
+     0     0  294.50824    0   39  545.00000  294.50824  46.0%     -    0s
+     0     0  294.50824    0   39  545.00000  294.50824  46.0%     -    0s
+     0     0  296.00317    0   35  545.00000  296.00317  45.7%     -    0s
+     0     0  296.88683    0   35  545.00000  296.88683  45.5%     -    0s
+     0     0  296.88683    0   35  545.00000  296.88683  45.5%     -    0s
+     0     0  299.86667    0   39  545.00000  299.86667  45.0%     -    0s
+     0     0  300.40924    0   39  545.00000  300.40924  44.9%     -    0s
+     0     0  302.00000    0   39  545.00000  302.00000  44.6%     -    0s
+     0     0  302.25758    0   39  545.00000  302.25758  44.5%     -    0s
+     0     0  303.50000    0   39  545.00000  303.50000  44.3%     -    0s
+     0     0  303.71429    0   34  545.00000  303.71429  44.3%     -    0s
+     0     2  303.71429    0   34  545.00000  303.71429  44.3%     -    0s
+H  110   117                     532.0000000  303.71429  42.9%  13.8    0s
+H  605   396                     510.0000000  312.62500  38.7%  13.0    0s
+H 1367   774                     503.0000000  320.14286  36.4%  15.9    1s
+H 1371   741                     416.0000000  320.14286  23.0%  15.9    1s
+H 8311  3833                     415.0000000  334.64286  19.4%  16.8    3s
+ 14310  5870  385.02286   29   23  415.00000  341.10459  17.8%  16.5    5s
+ 29389 10027  383.95079   31   34  415.00000  349.82481  15.7%  16.4   10s
+ 29437 10059  370.21429   40   61  415.00000  349.82481  15.7%  16.4   15s
+ 35791 11096  374.62222   35   21  415.00000  349.82481  15.7%  16.8   20s
+ 56021 11588  394.59524   36   19  415.00000  350.50000  15.5%  17.2   25s
+ 75239 15771  364.90476   35   19  415.00000  356.28571  14.1%  17.5   30s
+
+Cutting planes:
+  Learned: 5
+  Gomory: 9
+  Cover: 5
+  Implied bound: 19
+  Projected implied bound: 3
+  Clique: 4
+  MIR: 65
+  StrongCG: 1
+  Flow cover: 199
+  GUB cover: 2
+  Inf proof: 14
+  Zero half: 16
+  RLT: 4
+  Relax-and-lift: 11
+
+Explored 75791 nodes (1327490 simplex iterations) in 30.01 seconds
+Thread count was 8 (of 8 available processors)
+
+Solution count 7: 415 416 503 ... 626
+
+Time limit reached
+Best objective 4.150000000000e+02, best bound 3.570000000000e+02, gap 13.9759%
+
+User-callback calls 161694, time in user-callback 0.25 sec
+Warning: linear constraint 317 and linear constraint 333 have the same name "subtour_elimination_domain1"
+
+seats:
+
+Seats changes: {0: 0.0, 1: -2.0, 7: 3.0, 15: -3.0, 8: 0.0, 9: -1.0, 6: 0.0, 16: 3.0, 3: -3.0, 14: -1.0, 11: 1.0, 4: 2.0, 12: 2.0, 5: -3.0, 13: 0.0, 2: 0.0, 10: 0.0}
+Sigma: {0: 4.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 1.0, 10: 2.0, 11: 1.0, 12: 5.0, 13: 2.0, 14: 0.0, 15: 2.0, 16: 4.0, 17: 6.0}
+Optimal tour: [0, 1, 7, 15, 8, 9, 6, 16, 3, 14, 11, 4, 12, 5, 13, 2, 10, 17]
+Optimal cost: 415.0
+edges:
+(0, 1): 1.0, (1, 7): 1.0, (2, 10): 1.0, (3, 14): 1.0, (4, 12): 1.0, (5, 13): 1.0, (6, 16): 1.0, (7, 15): 1.0, (8, 9): 1.0, (9, 6): 1.0, (10, 17): 1.0, (11, 4): 1.0, (12, 5): 1.0, (13, 2): 1.0, (14, 11): 1.0, (15, 8): 1.0, (16, 3): 1.0, 
+arrival time:
+
+arrival time of vertex: 11.0
+arrival time of vertex: 215.0
+arrival time of vertex: 38.0
+arrival time of vertex: 411.0
+arrival time of vertex: 513.0
+arrival time of vertex: 66.0
+arrival time of vertex: 72.0
+arrival time of vertex: 84.0
+arrival time of vertex: 95.0
+arrival time of vertex: 1016.0
+arrival time of vertex: 1110.0
+arrival time of vertex: 1212.0
+arrival time of vertex: 1314.0
+arrival time of vertex: 149.0
+arrival time of vertex: 153.0
+arrival time of vertex: 167.0
+total time: 30.05
+Final MIP gap value: 0.13975903614457832
+time to find feasible solution is 30.014937162399292
+Checking:
+current passenger:{0: 0.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 0.0, 10: 0.0, 11: 0.0, 12: 0.0, 13: 0.0, 14: 0.0, 15: 2.0, 16: 1.0, 17: 6.0}
+current cargo:{0: 0.0, 1: 200.0, 2: 600.0, 3: 0.0, 4: 500.0, 5: 400.0, 6: 400.0, 7: 200.0, 8: 600.0, 9: 400.0, 10: 0.0, 11: 0.0, 12: 0.0, 13: 0.0, 14: 0.0, 15: 200.0, 16: 0.0, 17: 200.0}
+room for cargo:{0: 400.0, 1: 600.0, 2: 600.0, 3: 700.0, 4: 500.0, 5: 600.0, 6: 700.0, 7: 300.0, 8: 600.0, 9: 700.0, 10: 600.0, 11: 700.0, 12: 300.0, 13: 600.0, 14: 800.0, 15: 600.0, 16: 400.0, 17: 200.0}
+room for passengers:{0: 4.0, 1: 2.0, 2: 2.0, 3: 1.0, 4: 3.0, 5: 2.0, 6: 1.0, 7: 5.0, 8: 2.0, 9: 1.0, 10: 2.0, 11: 1.0, 12: 5.0, 13: 2.0, 14: 0.0, 15: 2.0, 16: 4.0, 17: 6.0}

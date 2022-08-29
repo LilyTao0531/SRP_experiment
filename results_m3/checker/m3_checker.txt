@@ -1,0 +1,2620 @@
+
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_88.txt
+
+instance 10_88.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_252.txt
+
+instance 10_252.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_734.txt
+
+instance 10_734.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_989.txt
+
+instance 10_989.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+instance 20_554.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+instance 20_304.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+instance 20_304.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+instance 20_304.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+
+instance 20_304.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_315.txt
+
+instance 20_315.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_244.txt
+
+instance 20_244.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+instance 20_554.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+instance 20_554.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_88.txt
+
+instance 10_88.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_252.txt
+
+instance 10_252.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_734.txt
+
+instance 10_734.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_989.txt
+instance 10_989.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_539.txt
+
+instance 10_539.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_967.txt
+
+instance 10_967.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_896.txt
+
+instance 10_896.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_285.txt
+instance 10_285.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_651.txt
+
+instance 10_651.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_29.txt
+
+instance 10_29.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_138.txt
+instance 15_138.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_350.txt
+instance 15_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_208.txt
+instance 15_208.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_490.txt
+instance 15_490.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_456.txt
+instance 15_456.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_247.txt
+instance 15_247.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_632.txt
+instance 15_632.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_272.txt
+instance 15_272.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_125.txt
+instance 15_125.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+instance 20_304.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_315.txt
+instance 20_315.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_244.txt
+instance 20_244.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+instance 20_554.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_536.txt
+instance 20_536.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_227.txt
+instance 20_227.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_777.txt
+instance 20_777.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_684.txt
+instance 20_684.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_770.txt
+instance 20_770.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_269.txt
+instance 20_269.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_138.txt
+instance 15_138.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_350.txt
+instance 15_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_208.txt
+instance 15_208.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_490.txt
+instance 15_490.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_456.txt
+instance 15_456.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_247.txt
+instance 15_247.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_632.txt
+instance 15_632.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_272.txt
+instance 15_272.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_125.txt
+instance 15_125.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+instance 20_304.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_315.txt
+instance 20_315.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_244.txt
+instance 20_244.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+instance 20_554.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_536.txt
+instance 20_536.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_227.txt
+instance 20_227.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_777.txt
+instance 20_777.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_684.txt
+instance 20_684.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_770.txt
+instance 20_770.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_269.txt
+instance 20_269.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_692.txt
+
+instance 5_692.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_420.txt
+
+instance 5_420.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_812.txt
+
+instance 5_812.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_363.txt
+
+instance 5_363.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_355.txt
+
+instance 5_355.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_632.txt
+
+instance 5_632.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_438.txt
+
+instance 5_438.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_88.txt
+
+instance 10_88.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_252.txt
+
+instance 10_252.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_734.txt
+
+instance 10_734.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_989.txt
+instance 10_989.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_539.txt
+
+instance 10_539.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_967.txt
+
+instance 10_967.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_896.txt
+
+instance 10_896.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_285.txt
+instance 10_285.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_651.txt
+
+instance 10_651.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_29.txt
+
+instance 10_29.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_138.txt
+instance 15_138.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_350.txt
+instance 15_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_208.txt
+instance 15_208.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_490.txt
+instance 15_490.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_456.txt
+instance 15_456.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_247.txt
+instance 15_247.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_632.txt
+instance 15_632.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_272.txt
+instance 15_272.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_125.txt
+instance 15_125.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_304.txt
+instance 20_304.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_315.txt
+instance 20_315.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_244.txt
+instance 20_244.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_554.txt
+instance 20_554.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_536.txt
+instance 20_536.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_227.txt
+instance 20_227.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_777.txt
+instance 20_777.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_684.txt
+instance 20_684.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_770.txt
+instance 20_770.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_269.txt
+instance 20_269.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_379.txt
+instance 20_379.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_719.txt
+instance 20_719.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_500.txt
+instance 20_500.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_238.txt
+instance 20_238.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_638.txt
+instance 20_638.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+instance 20_831.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_837.txt
+instance 20_837.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_635.txt
+instance 20_635.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_183.txt
+instance 20_183.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_419.txt
+instance 20_419.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_739.txt
+instance 20_739.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_200.txt
+instance 20_200.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_935.txt
+instance 20_935.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_369.txt
+instance 20_369.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_20.txt
+instance 20_20.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+instance 10_188.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+instance 10_17.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+instance 10_862.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+instance 10_954.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+instance 10_582.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+instance 10_563.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+instance 10_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+instance 15_287.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+instance 15_805.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+instance 15_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+instance 15_254.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+instance 15_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+instance 15_703.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+instance 15_944.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+instance 20_313.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+instance 20_65.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+instance 20_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+instance 20_957.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+instance 20_820.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+instance 20_361.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+instance 20_624.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+instance 15_287.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+instance 15_805.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+instance 15_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+instance 15_254.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+instance 15_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+instance 15_703.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+instance 15_944.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+instance 20_313.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+instance 20_65.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+instance 20_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+instance 20_957.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+instance 20_820.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+instance 20_361.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+instance 20_624.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+instance 10_188.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+instance 10_17.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+instance 10_862.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+instance 10_954.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+instance 10_582.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+instance 10_563.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+instance 10_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+instance 15_287.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+instance 15_805.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+instance 15_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+instance 15_254.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+instance 15_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+instance 15_703.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+instance 15_944.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+instance 20_313.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+instance 20_65.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+instance 20_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+instance 20_957.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+instance 20_820.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+instance 20_361.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+instance 20_624.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_haha.txt
+
+instance 5_haha.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+instance 10_188.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+instance 10_17.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+instance 10_862.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+instance 10_954.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+instance 10_582.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+instance 10_563.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+instance 10_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+instance 10_188.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+instance 10_17.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_haha.txt
+
+instance 5_haha.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+instance 10_188.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+instance 10_17.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+instance 10_862.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+instance 10_954.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+instance 10_582.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+instance 10_568.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+instance 10_563.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+instance 10_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+instance 15_287.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+instance 15_805.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+instance 15_733.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+instance 15_254.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+instance 15_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+instance 15_703.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+instance 15_944.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+instance 20_313.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+instance 20_65.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+instance 20_350.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+instance 20_957.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+instance 20_820.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+instance 20_361.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+instance 20_624.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+instance 10_546.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+instance 10_563.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_4_899.txt
+
+instance 4_899.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_4_899.txt
+
+instance 4_899.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_haha.txt
+
+instance 5_haha.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+instance 20_831.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+instance 20_831.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+
+instance 10_17.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+
+instance 10_862.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+
+instance 10_954.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+
+instance 10_582.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+
+instance 10_568.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+
+instance 10_563.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+
+instance 10_733.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+
+instance 15_266.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+
+instance 15_287.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+
+instance 15_43.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+
+instance 15_805.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+
+instance 15_733.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+
+instance 15_254.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+
+instance 15_263.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+
+instance 15_703.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+
+instance 15_147.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+
+instance 15_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+
+instance 20_263.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+
+instance 20_313.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+
+instance 20_65.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+
+instance 20_350.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+
+instance 20_179.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+
+instance 20_957.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+
+instance 20_820.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+
+instance 20_255.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+
+instance 20_361.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+
+instance 20_624.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+
+instance 15_147.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_379.txt
+
+instance 20_379.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_719.txt
+
+instance 20_719.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_500.txt
+
+instance 20_500.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_238.txt
+
+instance 20_238.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_638.txt
+
+instance 20_638.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_831.txt
+instance 20_831.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_837.txt
+
+instance 20_837.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_635.txt
+
+instance 20_635.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_183.txt
+
+instance 20_183.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_419.txt
+
+instance 20_419.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_739.txt
+
+instance 20_739.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_200.txt
+
+instance 20_200.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_935.txt
+
+instance 20_935.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_369.txt
+
+instance 20_369.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_20.txt
+
+instance 20_20.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+
+instance 15_147.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_17.txt
+
+instance 10_17.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_862.txt
+
+instance 10_862.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_954.txt
+
+instance 10_954.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_582.txt
+
+instance 10_582.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_568.txt
+
+instance 10_568.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_563.txt
+
+instance 10_563.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_10_733.txt
+
+instance 10_733.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_287.txt
+instance 15_287.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_43.txt
+instance 15_43.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_805.txt
+instance 15_805.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_733.txt
+
+instance 15_733.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_254.txt
+instance 15_254.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_263.txt
+instance 15_263.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_703.txt
+instance 15_703.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_944.txt
+instance 15_944.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_263.txt
+instance 20_263.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_313.txt
+instance 20_313.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_65.txt
+instance 20_65.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_350.txt
+instance 20_350.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_179.txt
+instance 20_179.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_957.txt
+instance 20_957.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_820.txt
+instance 20_820.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_255.txt
+instance 20_255.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_361.txt
+instance 20_361.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_20_624.txt
+instance 20_624.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+instance 5_950.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+instance 5_950.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_914.txt
+
+instance 5_914.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_535.txt
+
+instance 5_535.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_597.txt
+
+instance 5_597.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_54.txt
+
+instance 5_54.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_980.txt
+
+instance 5_980.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_395.txt
+instance 5_395.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_105.txt
+
+instance 5_105.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_637.txt
+
+instance 5_637.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_333.txt
+
+instance 5_333.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_716.txt
+
+instance 5_716.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_804.txt
+
+instance 5_804.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_347.txt
+
+instance 5_347.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_367.txt
+
+instance 5_367.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_695.txt
+
+instance 5_695.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_351.txt
+
+instance 5_351.txt << invalid >> (vehicle capacity is violated at location 8 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_188.txt
+
+instance 5_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_42.txt
+
+instance 5_42.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_992.txt
+
+instance 5_992.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_914.txt
+
+instance 5_914.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_535.txt
+
+instance 5_535.txt << invalid >> (vehicle capacity is violated at location 6 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_597.txt
+
+instance 5_597.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_54.txt
+
+instance 5_54.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_980.txt
+
+instance 5_980.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_395.txt
+instance 5_395.txt<< infeasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_105.txt
+
+instance 5_105.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_637.txt
+
+instance 5_637.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_333.txt
+
+instance 5_333.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_716.txt
+
+instance 5_716.txt << invalid >> (vehicle capacity is violated at location 6 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_804.txt
+
+instance 5_804.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_347.txt
+
+instance 5_347.txt << invalid >> (vehicle capacity is violated at location 6 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_367.txt
+
+instance 5_367.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_695.txt
+
+instance 5_695.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_351.txt
+
+instance 5_351.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_188.txt
+
+instance 5_188.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_42.txt
+
+instance 5_42.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_992.txt
+
+instance 5_992.txt << invalid >> (number of seats are far from an integer number)
+
+checking /home/lily/Cplex_copy/results_m3_5_914.txt
+
+instance 5_914.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_535.txt
+
+instance 5_535.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_597.txt
+
+instance 5_597.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_54.txt
+
+instance 5_54.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_980.txt
+
+instance 5_980.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_395.txt
+
+instance 5_395.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_195.txt
+
+instance 5_195.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_105.txt
+
+instance 5_105.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_637.txt
+
+instance 5_637.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_333.txt
+
+instance 5_333.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_716.txt
+
+instance 5_716.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_804.txt
+
+instance 5_804.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_347.txt
+
+instance 5_347.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_367.txt
+
+instance 5_367.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_695.txt
+
+instance 5_695.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_351.txt
+
+instance 5_351.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_188.txt
+
+instance 5_188.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_42.txt
+
+instance 5_42.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_992.txt
+
+instance 5_992.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_914.txt
+
+instance 5_914.txt << invalid >> (vehicle capacity is violated at location 6 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_914.txt
+
+instance 5_914.txt << invalid >> (vehicle capacity is violated at location 6 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_535.txt
+
+instance 5_535.txt << invalid >> (vehicle capacity is violated at location 3 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_597.txt
+
+instance 5_597.txt << invalid >> (vehicle capacity is violated at location 4 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_54.txt
+
+instance 5_54.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_602.txt
+
+instance 5_602.txt << invalid >> (vehicle capacity is violated at location 5 due to pass_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_980.txt
+
+instance 5_980.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/Cplex_copy/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_266.txt
+instance 15_266.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_147.txt
+instance 15_147.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_805.txt
+instance 15_805.txt<< feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_266.txt
+
+instance 15_266.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_287.txt
+
+instance 15_287.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_43.txt
+
+instance 15_43.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_805.txt
+
+instance 15_805.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_733.txt
+
+instance 15_733.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_254.txt
+
+instance 15_254.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_263.txt
+
+instance 15_263.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_703.txt
+
+instance 15_703.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_147.txt
+
+instance 15_147.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_15_944.txt
+
+instance 15_944.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_263.txt
+
+instance 20_263.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_313.txt
+
+instance 20_313.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_65.txt
+
+instance 20_65.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_350.txt
+
+instance 20_350.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_179.txt
+
+instance 20_179.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_957.txt
+
+instance 20_957.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_820.txt
+
+instance 20_820.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_255.txt
+
+instance 20_255.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_361.txt
+
+instance 20_361.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_624.txt
+
+instance 20_624.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_17.txt
+
+instance 10_17.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_862.txt
+
+instance 10_862.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_954.txt
+
+instance 10_954.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_582.txt
+
+instance 10_582.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_568.txt
+
+instance 10_568.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_563.txt
+
+instance 10_563.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_733.txt
+
+instance 10_733.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_699.txt
+
+instance 5_699.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_944.txt
+
+instance 5_944.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_661.txt
+
+instance 5_661.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_70.txt
+
+instance 5_70.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_210.txt
+
+instance 5_210.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_548.txt
+
+instance 5_548.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_124.txt
+
+instance 5_124.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_283.txt
+
+instance 5_283.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_950.txt
+
+instance 5_950.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_5_389.txt
+
+instance 5_389.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_546.txt
+
+instance 10_546.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_188.txt
+
+instance 10_188.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_17.txt
+
+instance 10_17.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_862.txt
+
+instance 10_862.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_954.txt
+
+instance 10_954.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_582.txt
+
+instance 10_582.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_843.txt
+
+instance 10_843.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_568.txt
+
+instance 10_568.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_563.txt
+
+instance 10_563.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_10_733.txt
+
+instance 10_733.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_263.txt
+
+instance 20_263.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_313.txt
+
+instance 20_313.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_65.txt
+
+instance 20_65.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_350.txt
+
+instance 20_350.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_179.txt
+
+instance 20_179.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_957.txt
+
+instance 20_957.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_820.txt
+
+instance 20_820.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_255.txt
+
+instance 20_255.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_361.txt
+
+instance 20_361.txt << feasible >>
+
+checking /home/lily/srp_experiment/results_m3_20_624.txt
+
+instance 20_624.txt << feasible >>

@@ -1,0 +1,60 @@
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 26 11:15:28 2022
+
+Set parameter LogFile to value "/home/lily/srp_experiment/results_m3/5_124.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 416 rows, 1788 columns and 5148 nonzeros
+Model fingerprint: 0xed95fb7d
+Variable types: 60 continuous, 1728 integer (1728 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 4e+02]
+  Objective range  [2e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+
+User MIP start produced solution with objective 462 (0.00s)
+Loaded user MIP start with objective 462
+
+Presolve removed 201 rows and 1478 columns
+Presolve time: 0.06s
+Presolved: 215 rows, 310 columns, 1456 nonzeros
+Variable types: 30 continuous, 280 integer (262 binary)
+
+Root relaxation: objective 4.019167e+02, 231 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  407.83333    0   56  462.00000  407.83333  11.7%     -    0s
+*    0     0               0     456.0000000  456.00000  0.00%     -    0s
+
+Cutting planes:
+  Gomory: 5
+  Implied bound: 9
+  Clique: 17
+  MIR: 3
+  GUB cover: 2
+  Zero half: 11
+  RLT: 3
+  Relax-and-lift: 5
+
+Explored 1 nodes (397 simplex iterations) in 0.09 seconds (0.06 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 456 456 462 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.560000000000e+02, best bound 4.560000000000e+02, gap 0.0000%
+
+User-callback calls 756, time in user-callback 0.00 sec
+
+Optimal tour: [0, 5, 10, 2, 7, 4, 9, 3, 1, 8, 6, 11]
+Seats changes: {0: 4.0, 5: -2.0, 10: 1.0, 2: -1.0, 7: 2.0, 4: -3.0, 9: 2.0, 3: -0.0, 1: 0.0, 8: -0.0, 6: 0.0, 11: -5.0}
+Optimal cost: 456.0
+total time: 0.15
+Final MIP gap value:0.0
+time to find feasible solution is 0.09409403800964355
+Checking:
+Remaining cargo space:{0: 600.0, 5: 200.0, 10: 0.0, 2: 300.0, 7: 100.0, 4: 200.0, 9: 400.0, 3: 300.0, 1: 0.0, 8: 0.0, 6: 300.0, 11: 300.0}
+Remaining passenger space:{0: 2.0, 5: 6.0, 10: 0.0, 2: 5.0, 7: 0.0, 4: 6.0, 9: 2.0, 3: 5.0, 1: 5.0, 8: 0.0, 6: 0.0, 11: 5.0}

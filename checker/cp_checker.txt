@@ -1,0 +1,330 @@
+
+
+instance 5_699.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 10_862.txt << feasible >>
+
+instance 10_954.txt << feasible >>
+
+instance 10_582.txt << feasible >>
+
+instance 10_563.txt << feasible >>
+
+instance 10_733.txt << feasible >>
+
+instance 15_805.txt << feasible >>
+
+instance 15_254.txt << feasible >>
+
+instance 15_703.txt << feasible >>
+
+instance 20_65.txt << feasible >>
+
+instance 20_350.txt << feasible >>
+
+instance 20_957.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 10_862.txt << feasible >>
+
+instance 10_954.txt << feasible >>
+
+instance 10_582.txt << feasible >>
+
+instance 10_546.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+instance 10_188.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 10_17.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 5_548.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 5_283.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_389.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 5_699.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 5_944.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_661.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_70.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 5_210.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_548.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 5_124.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_haha.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 5_283.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 5_950.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 5_389.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 10_546.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+instance 10_188.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 10_17.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 10_862.txt << invalid >> (vehicle capacity is violated at location 3 due to cargo_cap)
+
+instance 10_954.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 10_582.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 10_843.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 10_568.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 10_563.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 10_733.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 15_266.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 15_287.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 15_43.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 15_805.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 15_733.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 15_254.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 15_263.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 15_703.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 15_147.txt << invalid >> (vehicle capacity is violated at location 2 due to cargo_cap)
+
+instance 15_944.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 20_263.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 20_263.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 20_313.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 20_65.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 20_350.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 20_179.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 20_957.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 20_820.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 20_255.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 20_361.txt << invalid >> (vehicle capacity is violated at location 2 due to pass_cap)
+
+instance 20_624.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 10_546.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+instance 10_546.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+instance 10_546.txt << invalid >> (vehicle capacity is violated at location 3 due to pass_cap)
+
+instance 10_563.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+
+instance 15_43.txt << invalid >> (vehicle capacity is violated at location 1 due to pass_cap)
+
+instance 15_147.txt << invalid >> (vehicle capacity is violated at location 1 due to cargo_cap)
+instance 15_43.txt<< infeasible >>
+instance 15_147.txt<< infeasible >>
+instance 10_188.txt<< infeasible >>
+instance 10_17.txt<< infeasible >>
+instance 5_70.txt<< infeasible >>
+instance 5_124.txt<< infeasible >>
+instance 5_70.txt<< infeasible >>
+instance 5_699.txt<< infeasible >>
+instance 4_899.txt<< infeasible >>
+
+instance 4_899.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 20_179.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_haha.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 5_699.txt << feasible >>
+
+instance 5_944.txt << feasible >>
+
+instance 5_661.txt << feasible >>
+
+instance 5_70.txt << feasible >>
+
+instance 5_210.txt << feasible >>
+
+instance 5_548.txt << feasible >>
+
+instance 5_124.txt << feasible >>
+
+instance 5_283.txt << feasible >>
+
+instance 5_950.txt << feasible >>
+
+instance 5_389.txt << feasible >>
+
+instance 10_546.txt << feasible >>
+
+instance 10_188.txt << feasible >>
+
+instance 10_17.txt << feasible >>
+
+instance 10_862.txt << feasible >>
+
+instance 10_954.txt << feasible >>
+
+instance 10_582.txt << feasible >>
+
+instance 10_843.txt << feasible >>
+
+instance 10_568.txt << feasible >>
+
+instance 10_563.txt << feasible >>
+
+instance 10_733.txt << feasible >>
+
+instance 15_266.txt << feasible >>
+
+instance 15_287.txt << feasible >>
+
+instance 15_43.txt << feasible >>
+
+instance 15_805.txt << feasible >>
+
+instance 15_733.txt << feasible >>
+
+instance 15_254.txt << feasible >>
+
+instance 15_263.txt << feasible >>
+
+instance 15_703.txt << feasible >>
+
+instance 15_147.txt << invalid >> (vehicle capacity is violated at location 5 due to pass_cap)
+
+instance 15_944.txt << feasible >>
+
+instance 20_263.txt << feasible >>
+
+instance 20_313.txt << feasible >>
+
+instance 20_65.txt << feasible >>
+
+instance 20_350.txt << feasible >>
+
+instance 20_179.txt << feasible >>
+
+instance 20_957.txt << feasible >>
+
+instance 20_820.txt << feasible >>
+
+instance 20_255.txt << feasible >>
+
+instance 20_361.txt << feasible >>
+
+instance 20_624.txt << feasible >>

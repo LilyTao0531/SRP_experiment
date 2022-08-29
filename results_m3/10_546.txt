@@ -1,0 +1,96 @@
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 26 11:55:37 2022
+
+Set parameter LogFile to value "/home/lily/srp_experiment/results_m3/10_546.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 1211 rows, 10758 columns and 31626 nonzeros
+Model fingerprint: 0xc5ae75b9
+Variable types: 110 continuous, 10648 integer (10648 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+02]
+  Objective range  [7e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+
+User MIP start produced solution with objective 740 (0.01s)
+Loaded user MIP start with objective 740
+
+Presolve removed 284 rows and 4718 columns
+Presolve time: 0.57s
+Presolved: 927 rows, 6040 columns, 20246 nonzeros
+Variable types: 60 continuous, 5980 integer (5942 binary)
+
+Root relaxation: objective 4.291667e+02, 1855 iterations, 0.13 seconds (0.15 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  565.37310    0  375  740.00000  565.37310  23.6%     -    1s
+     0     0  571.91985    0  387  740.00000  571.91985  22.7%     -    1s
+     0     0  582.88855    0  391  740.00000  582.88855  21.2%     -    3s
+     0     0  587.89091    0  399  740.00000  587.89091  20.6%     -    3s
+     0     0  587.89540    0  408  740.00000  587.89540  20.6%     -    3s
+     0     0  587.93673    0  424  740.00000  587.93673  20.5%     -    3s
+     0     0  590.22284    0  436  740.00000  590.22284  20.2%     -    4s
+     0     0  592.93277    0  430  740.00000  592.93277  19.9%     -    4s
+     0     0  593.05690    0  412  740.00000  593.05690  19.9%     -    4s
+     0     0  593.05690    0  436  740.00000  593.05690  19.9%     -    4s
+     0     0  593.05690    0  436  740.00000  593.05690  19.9%     -    4s
+     0     0  594.56380    0  432  740.00000  594.56380  19.7%     -    4s
+     0     0  594.56380    0  432  740.00000  594.56380  19.7%     -    4s
+     0     0  594.56380    0  440  740.00000  594.56380  19.7%     -    4s
+     0     0  594.56380    0  441  740.00000  594.56380  19.7%     -    4s
+     0     0  594.58791    0  475  740.00000  594.58791  19.7%     -    4s
+     0     0  595.97335    0  466  740.00000  595.97335  19.5%     -    4s
+     0     0  596.04850    0  464  740.00000  596.04850  19.5%     -    4s
+     0     0  597.47786    0  464  740.00000  597.47786  19.3%     -    4s
+     0     2  597.47786    0  464  740.00000  597.47786  19.3%     -    4s
+    11    14  602.58702    4  430  740.00000  597.47786  19.3%   322    5s
+H   29    31                     722.0000000  597.47786  17.2%   265    5s
+H  539   421                     721.0000000  602.61397  16.4%   106    7s
+  1077   776  641.87897   44  387  721.00000  607.27320  15.8%  89.4   11s
+  1092   787  607.27320   13  495  721.00000  607.27320  15.8%  91.3   15s
+  1281   852  618.85248   30  434  721.00000  607.27320  15.8%   108   20s
+H 1394   833                     715.0000000  607.27320  15.1%   108   21s
+  1852   983  653.51257   64  355  715.00000  607.27320  15.1%   106   25s
+* 3108  1283              44     707.0000000  635.13907  10.2%   102   29s
+  3244  1308  675.61063   56  234  707.00000  635.79455  10.1%   101   30s
+  4685  2109     cutoff   31       707.00000  643.26592  9.01%  96.5   35s
+  6468  2735  697.44468   25  252  707.00000  649.58442  8.12%  96.5   41s
+  7759  3138  697.65629   24  214  707.00000  654.22591  7.46%  95.0   45s
+  9985  3669  691.70264   45  343  707.00000  661.64125  6.42%  92.7   50s
+ 11004  3835  699.90710   60  265  707.00000  663.27448  6.18%  91.2   55s
+*11296  3255              31     694.0000000  663.53915  4.39%  91.2   55s
+ 13651  1975  687.08023   32  256  694.00000  676.46482  2.53%  88.6   60s
+
+Cutting planes:
+  Implied bound: 5
+  Projected implied bound: 1
+  Clique: 15
+  MIR: 20
+  StrongCG: 2
+  Flow cover: 5
+  GUB cover: 5
+  Zero half: 8
+  Relax-and-lift: 14
+
+Explored 16292 nodes (1306324 simplex iterations) in 61.92 seconds (91.05 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 6: 694 707 715 ... 740
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.940000000000e+02, best bound 6.940000000000e+02, gap 0.0000%
+
+User-callback calls 41212, time in user-callback 0.07 sec
+
+Optimal tour: [0, 7, 2, 17, 12, 1, 11, 10, 20, 4, 8, 14, 5, 15, 9, 19, 3, 13, 6, 18, 16, 21]
+Seats changes: {0: 2.0, 7: -2.0, 2: 0.0, 17: 0.0, 12: 0.0, 1: 3.0, 11: 1.0, 10: 1.0, 20: 1.0, 4: -5.0, 8: 1.0, 14: -1.0, 5: 2.0, 15: 3.0, 9: -6.0, 19: 6.0, 3: -2.0, 13: 2.0, 6: -2.0, 18: -1.0, 16: 0.0, 21: -3.0}
+Optimal cost: 694.0
+total time: 62.12
+Final MIP gap value:0.0
+time to find feasible solution is 61.93473410606384
+Checking:
+Remaining cargo space:{0: 800.0, 7: 600.0, 2: 200.0, 17: 0.0, 12: 600.0, 1: 800.0, 11: 100.0, 10: 400.0, 20: 0.0, 4: 200.0, 8: 400.0, 14: 100.0, 5: 500.0, 15: 200.0, 9: 0.0, 19: 0.0, 3: 0.0, 13: 100.0, 6: 0.0, 18: 0.0, 16: 300.0, 21: 500.0}
+Remaining passenger space:{0: 0.0, 7: 2.0, 2: 0.0, 17: 0.0, 12: 0.0, 1: 0.0, 11: 3.0, 10: 4.0, 20: 0.0, 4: 6.0, 8: 0.0, 14: 1.0, 5: 1.0, 15: 0.0, 9: 6.0, 19: 0.0, 3: 6.0, 13: 0.0, 6: 6.0, 18: 1.0, 16: 0.0, 21: 3.0}

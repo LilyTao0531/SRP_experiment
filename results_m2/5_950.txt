@@ -1,0 +1,505 @@
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 19 14:18:43 2022
+
+Set parameter LogFile to value "/home/lily/Cplex_copy/results_m2/5_950.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 894 rows, 204 columns and 3266 nonzeros
+Model fingerprint: 0x9b0958a8
+Variable types: 72 continuous, 132 integer (132 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [6e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 182 rows and 40 columns
+Presolve time: 0.02s
+Presolved: 712 rows, 164 columns, 4442 nonzeros
+Variable types: 64 continuous, 100 integer (100 binary)
+Found heuristic solution: objective 652.0000000
+
+Root relaxation: objective 3.473452e+02, 172 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  355.13421    0   16  652.00000  355.13421  45.5%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+H    0     0                     506.0000000  408.23343  19.3%     -    0s
+     0     0  408.23343    0   22  506.00000  408.23343  19.3%     -    0s
+     0     0  408.72084    0   22  506.00000  408.72084  19.2%     -    0s
+     0     0  408.72084    0   21  506.00000  408.72084  19.2%     -    0s
+     0     0  410.33333    0   18  506.00000  410.33333  18.9%     -    0s
+     0     0  411.39524    0   18  506.00000  411.39524  18.7%     -    0s
+     0     0  416.15736    0   16  506.00000  416.15736  17.8%     -    0s
+     0     0  421.06061    0   16  506.00000  421.06061  16.8%     -    0s
+     0     0  421.35197    0   16  506.00000  421.35197  16.7%     -    0s
+     0     0  423.66667    0   30  506.00000  423.66667  16.3%     -    0s
+     0     0  425.00000    0   31  506.00000  425.00000  16.0%     -    0s
+     0     0  425.69470    0   31  506.00000  425.69470  15.9%     -    0s
+     0     0  429.31746    0   13  506.00000  429.31746  15.2%     -    0s
+H    0     0                     486.0000000  430.03912  11.5%     -    0s
+     0     0  430.03912    0   27  486.00000  430.03912  11.5%     -    0s
+     0     0  430.09524    0   27  486.00000  430.09524  11.5%     -    0s
+     0     0  432.83273    0   26  486.00000  432.83273  10.9%     -    0s
+     0     0  433.20468    0   26  486.00000  433.20468  10.9%     -    0s
+     0     0  434.15625    0   32  486.00000  434.15625  10.7%     -    0s
+     0     0  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+     0     2  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 2
+  Cover: 2
+  Implied bound: 15
+  Clique: 2
+  MIR: 51
+  GUB cover: 2
+  Zero half: 2
+  RLT: 2
+  Relax-and-lift: 5
+
+Explored 275 nodes (6984 simplex iterations) in 0.29 seconds (0.25 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 486 506 652 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.860000000000e+02, best bound 4.860000000000e+02, gap 0.0000%
+
+User-callback calls 1313, time in user-callback 0.00 sec
+status is:2
+Optimal tour: [0, 4, 9, 1, 3, 6, 2, 7, 5, 8, 10, 11]
+Optimal cost: 486.0
+Seats changes: {0: 1.0, 1: -1.0, 2: 0.0, 3: 0.0, 4: 3.0, 5: 0.0, 6: 2.0, 7: 0.0, 8: -2.0, 9: 0.0, 10: 2.0, 11: 0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 4 is 3.0
+number of seats picked up at base 6 is 2.0
+number of seats picked up at base 10 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 3.0
+arrival time of vertex 2 is 6.0
+arrival time of vertex 3 is 4.0
+arrival time of vertex 4 is 1.0
+arrival time of vertex 5 is 8.0
+arrival time of vertex 6 is 5.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 9.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 10.0
+total time: 0.35
+Final MIP gap value:0.0
+Checking:
+Remaining cargo space:{0: 700.0, 1: 300.0, 2: 200.0, 3: 0.0, 4: 600.0, 5: 200.0, 6: 0.0, 7: 100.0, 8: 100.0, 9: 0.0, 10: 300.0, 11: 200.0}
+Remaining passenger space:
+{0: 1.0, 1: 5.0, 2: 3.0, 3: 3.0, 4: 2.0, 5: 3.0, 6: 0.0, 7: 0.0, 8: 2.0, 9: 0.0, 10: 3.0, 11: 6.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 3.0, 3: 1.0, 4: 0.0, 5: 3.0, 6: 4.0, 7: 6.0, 8: 4.0, 9: 5.0, 10: 1.0, 11: 0.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 0.0, 5: 0.0, 6: 400.0, 7: 100.0, 8: 100.0, 9: 300.0, 10: 100.0, 11: 800.0}
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 19 14:38:27 2022
+
+Set parameter LogFile to value "/home/lily/Cplex_copy/results_m2/5_950.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 894 rows, 204 columns and 3266 nonzeros
+Model fingerprint: 0x9b0958a8
+Variable types: 72 continuous, 132 integer (132 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [6e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 182 rows and 40 columns
+Presolve time: 0.02s
+Presolved: 712 rows, 164 columns, 4442 nonzeros
+Variable types: 64 continuous, 100 integer (100 binary)
+Found heuristic solution: objective 652.0000000
+
+Root relaxation: objective 3.473452e+02, 172 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  355.13421    0   16  652.00000  355.13421  45.5%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+H    0     0                     506.0000000  408.23343  19.3%     -    0s
+     0     0  408.23343    0   22  506.00000  408.23343  19.3%     -    0s
+     0     0  408.72084    0   22  506.00000  408.72084  19.2%     -    0s
+     0     0  408.72084    0   21  506.00000  408.72084  19.2%     -    0s
+     0     0  410.33333    0   18  506.00000  410.33333  18.9%     -    0s
+     0     0  411.39524    0   18  506.00000  411.39524  18.7%     -    0s
+     0     0  416.15736    0   16  506.00000  416.15736  17.8%     -    0s
+     0     0  421.06061    0   16  506.00000  421.06061  16.8%     -    0s
+     0     0  421.35197    0   16  506.00000  421.35197  16.7%     -    0s
+     0     0  423.66667    0   30  506.00000  423.66667  16.3%     -    0s
+     0     0  425.00000    0   31  506.00000  425.00000  16.0%     -    0s
+     0     0  425.69470    0   31  506.00000  425.69470  15.9%     -    0s
+     0     0  429.31746    0   13  506.00000  429.31746  15.2%     -    0s
+H    0     0                     486.0000000  430.03912  11.5%     -    0s
+     0     0  430.03912    0   27  486.00000  430.03912  11.5%     -    0s
+     0     0  430.09524    0   27  486.00000  430.09524  11.5%     -    0s
+     0     0  432.83273    0   26  486.00000  432.83273  10.9%     -    0s
+     0     0  433.20468    0   26  486.00000  433.20468  10.9%     -    0s
+     0     0  434.15625    0   32  486.00000  434.15625  10.7%     -    0s
+     0     0  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+     0     2  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 2
+  Cover: 2
+  Implied bound: 15
+  Clique: 2
+  MIR: 51
+  GUB cover: 2
+  Zero half: 2
+  RLT: 2
+  Relax-and-lift: 5
+
+Explored 275 nodes (6984 simplex iterations) in 0.29 seconds (0.25 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 486 506 652 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.860000000000e+02, best bound 4.860000000000e+02, gap 0.0000%
+
+User-callback calls 1309, time in user-callback 0.00 sec
+status is:2
+Optimal tour: [0, 4, 9, 1, 3, 6, 2, 7, 5, 8, 10, 11]
+Optimal cost: 486.0
+Seats changes: {0: 1.0, 1: -1.0, 2: 0.0, 3: 0.0, 4: 3.0, 5: 0.0, 6: 2.0, 7: 0.0, 8: -2.0, 9: 0.0, 10: 2.0, 11: 0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 4 is 3.0
+number of seats picked up at base 6 is 2.0
+number of seats picked up at base 10 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 3.0
+arrival time of vertex 2 is 6.0
+arrival time of vertex 3 is 4.0
+arrival time of vertex 4 is 1.0
+arrival time of vertex 5 is 8.0
+arrival time of vertex 6 is 5.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 9.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 10.0
+total time: 0.37
+Final MIP gap value:0.0
+Checking:
+Remaining cargo space:{0: 700.0, 1: 300.0, 2: 200.0, 3: 0.0, 4: 600.0, 5: 200.0, 6: 0.0, 7: 100.0, 8: 100.0, 9: 0.0, 10: 300.0, 11: 200.0}
+Remaining passenger space:
+{0: 1.0, 1: 5.0, 2: 3.0, 3: 3.0, 4: 2.0, 5: 3.0, 6: 0.0, 7: 0.0, 8: 2.0, 9: 0.0, 10: 3.0, 11: 6.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 3.0, 3: 1.0, 4: 0.0, 5: 3.0, 6: 4.0, 7: 6.0, 8: 4.0, 9: 5.0, 10: 1.0, 11: 0.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 0.0, 5: 0.0, 6: 400.0, 7: 100.0, 8: 100.0, 9: 300.0, 10: 100.0, 11: 800.0}
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 19 14:40:29 2022
+
+Set parameter LogFile to value "/home/lily/Cplex_copy/results_m2/5_950.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 894 rows, 204 columns and 3266 nonzeros
+Model fingerprint: 0x9b0958a8
+Variable types: 72 continuous, 132 integer (132 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [6e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 182 rows and 40 columns
+Presolve time: 0.02s
+Presolved: 712 rows, 164 columns, 4442 nonzeros
+Variable types: 64 continuous, 100 integer (100 binary)
+Found heuristic solution: objective 652.0000000
+
+Root relaxation: objective 3.473452e+02, 172 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  355.13421    0   16  652.00000  355.13421  45.5%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+H    0     0                     506.0000000  408.23343  19.3%     -    0s
+     0     0  408.23343    0   22  506.00000  408.23343  19.3%     -    0s
+     0     0  408.72084    0   22  506.00000  408.72084  19.2%     -    0s
+     0     0  408.72084    0   21  506.00000  408.72084  19.2%     -    0s
+     0     0  410.33333    0   18  506.00000  410.33333  18.9%     -    0s
+     0     0  411.39524    0   18  506.00000  411.39524  18.7%     -    0s
+     0     0  416.15736    0   16  506.00000  416.15736  17.8%     -    0s
+     0     0  421.06061    0   16  506.00000  421.06061  16.8%     -    0s
+     0     0  421.35197    0   16  506.00000  421.35197  16.7%     -    0s
+     0     0  423.66667    0   30  506.00000  423.66667  16.3%     -    0s
+     0     0  425.00000    0   31  506.00000  425.00000  16.0%     -    0s
+     0     0  425.69470    0   31  506.00000  425.69470  15.9%     -    0s
+     0     0  429.31746    0   13  506.00000  429.31746  15.2%     -    0s
+H    0     0                     486.0000000  430.03912  11.5%     -    0s
+     0     0  430.03912    0   27  486.00000  430.03912  11.5%     -    0s
+     0     0  430.09524    0   27  486.00000  430.09524  11.5%     -    0s
+     0     0  432.83273    0   26  486.00000  432.83273  10.9%     -    0s
+     0     0  433.20468    0   26  486.00000  433.20468  10.9%     -    0s
+     0     0  434.15625    0   32  486.00000  434.15625  10.7%     -    0s
+     0     0  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+     0     2  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 2
+  Cover: 2
+  Implied bound: 15
+  Clique: 2
+  MIR: 51
+  GUB cover: 2
+  Zero half: 2
+  RLT: 2
+  Relax-and-lift: 5
+
+Explored 275 nodes (6984 simplex iterations) in 0.29 seconds (0.25 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 486 506 652 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.860000000000e+02, best bound 4.860000000000e+02, gap 0.0000%
+
+User-callback calls 1311, time in user-callback 0.00 sec
+status is:2
+Optimal tour: [0, 4, 9, 1, 3, 6, 2, 7, 5, 8, 10, 11]
+Optimal cost: 486.0
+Seats changes: {0: 1.0, 1: -1.0, 2: 0.0, 3: 0.0, 4: 3.0, 5: 0.0, 6: 2.0, 7: 0.0, 8: -2.0, 9: 0.0, 10: 2.0, 11: 0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 4 is 3.0
+number of seats picked up at base 6 is 2.0
+number of seats picked up at base 10 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 3.0
+arrival time of vertex 2 is 6.0
+arrival time of vertex 3 is 4.0
+arrival time of vertex 4 is 1.0
+arrival time of vertex 5 is 8.0
+arrival time of vertex 6 is 5.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 9.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 10.0
+total time: 0.35
+Final MIP gap value:0.0
+Checking:
+Remaining cargo space:{0: 700.0, 1: 300.0, 2: 200.0, 3: 0.0, 4: 600.0, 5: 200.0, 6: 0.0, 7: 100.0, 8: 100.0, 9: 0.0, 10: 300.0, 11: 200.0}
+Remaining passenger space:
+{0: 1.0, 1: 5.0, 2: 3.0, 3: 3.0, 4: 2.0, 5: 3.0, 6: 0.0, 7: 0.0, 8: 2.0, 9: 0.0, 10: 3.0, 11: 6.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 3.0, 3: 1.0, 4: 0.0, 5: 3.0, 6: 4.0, 7: 6.0, 8: 4.0, 9: 5.0, 10: 1.0, 11: 0.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 0.0, 5: 0.0, 6: 400.0, 7: 100.0, 8: 100.0, 9: 300.0, 10: 100.0, 11: 800.0}
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 19 14:46:29 2022
+
+Set parameter LogFile to value "/home/lily/Cplex_copy/results_m2/5_950.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 894 rows, 204 columns and 3266 nonzeros
+Model fingerprint: 0x9b0958a8
+Variable types: 72 continuous, 132 integer (132 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [6e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 182 rows and 40 columns
+Presolve time: 0.02s
+Presolved: 712 rows, 164 columns, 4442 nonzeros
+Variable types: 64 continuous, 100 integer (100 binary)
+Found heuristic solution: objective 652.0000000
+
+Root relaxation: objective 3.473452e+02, 172 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  355.13421    0   16  652.00000  355.13421  45.5%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+H    0     0                     506.0000000  408.23343  19.3%     -    0s
+     0     0  408.23343    0   22  506.00000  408.23343  19.3%     -    0s
+     0     0  408.72084    0   22  506.00000  408.72084  19.2%     -    0s
+     0     0  408.72084    0   21  506.00000  408.72084  19.2%     -    0s
+     0     0  410.33333    0   18  506.00000  410.33333  18.9%     -    0s
+     0     0  411.39524    0   18  506.00000  411.39524  18.7%     -    0s
+     0     0  416.15736    0   16  506.00000  416.15736  17.8%     -    0s
+     0     0  421.06061    0   16  506.00000  421.06061  16.8%     -    0s
+     0     0  421.35197    0   16  506.00000  421.35197  16.7%     -    0s
+     0     0  423.66667    0   30  506.00000  423.66667  16.3%     -    0s
+     0     0  425.00000    0   31  506.00000  425.00000  16.0%     -    0s
+     0     0  425.69470    0   31  506.00000  425.69470  15.9%     -    0s
+     0     0  429.31746    0   13  506.00000  429.31746  15.2%     -    0s
+H    0     0                     486.0000000  430.03912  11.5%     -    0s
+     0     0  430.03912    0   27  486.00000  430.03912  11.5%     -    0s
+     0     0  430.09524    0   27  486.00000  430.09524  11.5%     -    0s
+     0     0  432.83273    0   26  486.00000  432.83273  10.9%     -    0s
+     0     0  433.20468    0   26  486.00000  433.20468  10.9%     -    0s
+     0     0  434.15625    0   32  486.00000  434.15625  10.7%     -    0s
+     0     0  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+     0     2  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 2
+  Cover: 2
+  Implied bound: 15
+  Clique: 2
+  MIR: 51
+  GUB cover: 2
+  Zero half: 2
+  RLT: 2
+  Relax-and-lift: 5
+
+Explored 275 nodes (6984 simplex iterations) in 0.29 seconds (0.25 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 486 506 652 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.860000000000e+02, best bound 4.860000000000e+02, gap 0.0000%
+
+User-callback calls 1309, time in user-callback 0.00 sec
+status is:2
+Optimal tour: [0, 4, 9, 1, 3, 6, 2, 7, 5, 8, 10, 11]
+Optimal cost: 486.0
+Seats changes: {0: 1.0, 1: -1.0, 2: 0.0, 3: 0.0, 4: 3.0, 5: 0.0, 6: 2.0, 7: 0.0, 8: -2.0, 9: 0.0, 10: 2.0, 11: 0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 4 is 3.0
+number of seats picked up at base 6 is 2.0
+number of seats picked up at base 10 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 3.0
+arrival time of vertex 2 is 6.0
+arrival time of vertex 3 is 4.0
+arrival time of vertex 4 is 1.0
+arrival time of vertex 5 is 8.0
+arrival time of vertex 6 is 5.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 9.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 10.0
+total time: 0.35
+Final MIP gap value:0.0
+Checking:
+Remaining cargo space:{0: 700.0, 1: 300.0, 2: 200.0, 3: 0.0, 4: 600.0, 5: 200.0, 6: 0.0, 7: 100.0, 8: 100.0, 9: 0.0, 10: 300.0, 11: 200.0}
+Remaining passenger space:
+{0: 1.0, 1: 5.0, 2: 3.0, 3: 3.0, 4: 2.0, 5: 3.0, 6: 0.0, 7: 0.0, 8: 2.0, 9: 0.0, 10: 3.0, 11: 6.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 3.0, 3: 1.0, 4: 0.0, 5: 3.0, 6: 4.0, 7: 6.0, 8: 4.0, 9: 5.0, 10: 1.0, 11: 0.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 0.0, 5: 0.0, 6: 400.0, 7: 100.0, 8: 100.0, 9: 300.0, 10: 100.0, 11: 800.0}
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 19 14:46:46 2022
+
+Set parameter LogFile to value "/home/lily/Cplex_copy/results_m2/5_950.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 894 rows, 204 columns and 3266 nonzeros
+Model fingerprint: 0x9b0958a8
+Variable types: 72 continuous, 132 integer (132 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+03]
+  Objective range  [6e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 1e+03]
+Presolve removed 182 rows and 40 columns
+Presolve time: 0.02s
+Presolved: 712 rows, 164 columns, 4442 nonzeros
+Variable types: 64 continuous, 100 integer (100 binary)
+Found heuristic solution: objective 652.0000000
+
+Root relaxation: objective 3.473452e+02, 172 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  355.13421    0   16  652.00000  355.13421  45.5%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+     0     0  404.40958    0   16  652.00000  404.40958  38.0%     -    0s
+H    0     0                     506.0000000  408.23343  19.3%     -    0s
+     0     0  408.23343    0   22  506.00000  408.23343  19.3%     -    0s
+     0     0  408.72084    0   22  506.00000  408.72084  19.2%     -    0s
+     0     0  408.72084    0   21  506.00000  408.72084  19.2%     -    0s
+     0     0  410.33333    0   18  506.00000  410.33333  18.9%     -    0s
+     0     0  411.39524    0   18  506.00000  411.39524  18.7%     -    0s
+     0     0  416.15736    0   16  506.00000  416.15736  17.8%     -    0s
+     0     0  421.06061    0   16  506.00000  421.06061  16.8%     -    0s
+     0     0  421.35197    0   16  506.00000  421.35197  16.7%     -    0s
+     0     0  423.66667    0   30  506.00000  423.66667  16.3%     -    0s
+     0     0  425.00000    0   31  506.00000  425.00000  16.0%     -    0s
+     0     0  425.69470    0   31  506.00000  425.69470  15.9%     -    0s
+     0     0  429.31746    0   13  506.00000  429.31746  15.2%     -    0s
+H    0     0                     486.0000000  430.03912  11.5%     -    0s
+     0     0  430.03912    0   27  486.00000  430.03912  11.5%     -    0s
+     0     0  430.09524    0   27  486.00000  430.09524  11.5%     -    0s
+     0     0  432.83273    0   26  486.00000  432.83273  10.9%     -    0s
+     0     0  433.20468    0   26  486.00000  433.20468  10.9%     -    0s
+     0     0  434.15625    0   32  486.00000  434.15625  10.7%     -    0s
+     0     0  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+     0     2  434.33333    0   31  486.00000  434.33333  10.6%     -    0s
+
+Cutting planes:
+  Learned: 1
+  Gomory: 2
+  Cover: 2
+  Implied bound: 15
+  Clique: 2
+  MIR: 51
+  GUB cover: 2
+  Zero half: 2
+  RLT: 2
+  Relax-and-lift: 5
+
+Explored 275 nodes (6984 simplex iterations) in 0.31 seconds (0.25 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 3: 486 506 652 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.860000000000e+02, best bound 4.860000000000e+02, gap 0.0000%
+
+User-callback calls 1316, time in user-callback 0.00 sec
+status is:2
+Optimal tour: [0, 4, 9, 1, 3, 6, 2, 7, 5, 8, 10, 11]
+Optimal cost: 486.0
+Seats changes: {0: 1.0, 1: -1.0, 2: 0.0, 3: 0.0, 4: 3.0, 5: 0.0, 6: 2.0, 7: 0.0, 8: -2.0, 9: 0.0, 10: 2.0, 11: 0.0}
+picked up seats
+
+number of seats picked up at base 0 is 1.0
+number of seats picked up at base 4 is 3.0
+number of seats picked up at base 6 is 2.0
+number of seats picked up at base 10 is 2.0
+arrival time:
+
+arrival time of vertex 1 is 3.0
+arrival time of vertex 2 is 6.0
+arrival time of vertex 3 is 4.0
+arrival time of vertex 4 is 1.0
+arrival time of vertex 5 is 8.0
+arrival time of vertex 6 is 5.0
+arrival time of vertex 7 is 7.0
+arrival time of vertex 8 is 9.0
+arrival time of vertex 9 is 2.0
+arrival time of vertex 10 is 10.0
+total time: 0.39
+Final MIP gap value:0.0
+Checking:
+Remaining cargo space:{0: 700.0, 1: 300.0, 2: 200.0, 3: 0.0, 4: 600.0, 5: 200.0, 6: 0.0, 7: 100.0, 8: 100.0, 9: 0.0, 10: 300.0, 11: 200.0}
+Remaining passenger space:
+{0: 1.0, 1: 5.0, 2: 3.0, 3: 3.0, 4: 2.0, 5: 3.0, 6: 0.0, 7: 0.0, 8: 2.0, 9: 0.0, 10: 3.0, 11: 6.0}
+current passenger:{0: 0.0, 1: 0.0, 2: 3.0, 3: 1.0, 4: 0.0, 5: 3.0, 6: 4.0, 7: 6.0, 8: 4.0, 9: 5.0, 10: 1.0, 11: 0.0}
+current cargo:{0: 0.0, 1: 0.0, 2: 0.0, 3: 400.0, 4: 0.0, 5: 0.0, 6: 400.0, 7: 100.0, 8: 100.0, 9: 300.0, 10: 100.0, 11: 800.0}
