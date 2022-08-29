@@ -1,0 +1,63 @@
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 26 10:25:24 2022
+
+Set parameter LogFile to value "/home/lily/srp_experiment/results_m3/5_699.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 416 rows, 1788 columns and 5092 nonzeros
+Model fingerprint: 0xfe4b6169
+Variable types: 60 continuous, 1728 integer (1728 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+02]
+  Objective range  [8e+00, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+
+User MIP start produced solution with objective 600 (0.00s)
+Loaded user MIP start with objective 600
+
+Presolve removed 182 rows and 1404 columns
+Presolve time: 0.06s
+Presolved: 234 rows, 384 columns, 1676 nonzeros
+Variable types: 29 continuous, 355 integer (337 binary)
+
+Root relaxation: objective 5.012609e+02, 289 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  547.28571    0   74  600.00000  547.28571  8.79%     -    0s
+H    0     0                     597.0000000  547.28571  8.33%     -    0s
+H    0     0                     558.0000000  547.28571  1.92%     -    0s
+H    0     0                     548.0000000  547.28571  0.13%     -    0s
+
+Cutting planes:
+  Gomory: 2
+  Cover: 1
+  Implied bound: 7
+  Clique: 4
+  MIR: 6
+  GUB cover: 1
+  Zero half: 12
+  RLT: 7
+  Relax-and-lift: 9
+
+Explored 1 nodes (497 simplex iterations) in 0.10 seconds (0.06 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 4: 548 558 597 600 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 5.480000000000e+02, best bound 5.480000000000e+02, gap 0.0000%
+
+User-callback calls 730, time in user-callback 0.00 sec
+
+Optimal tour: [0, 5, 4, 10, 1, 6, 9, 2, 7, 3, 8, 11]
+Seats changes: {0: 1.0, 5: 0.0, 4: 1.0, 10: -0.0, 1: -1.0, 6: 0.0, 9: -1.0, 2: 4.0, 7: 0.0, 3: -4.0, 8: 0.0, 11: -2.0}
+Optimal cost: 548.0
+total time: 0.19
+Final MIP gap value:0.0
+time to find feasible solution is 0.10772013664245605
+Checking:
+Remaining cargo space:{0: 600.0, 5: 500.0, 4: 500.0, 10: 0.0, 1: 0.0, 6: 100.0, 9: 100.0, 2: 600.0, 7: 200.0, 3: 200.0, 8: 100.0, 11: 600.0}
+Remaining passenger space:{0: 2.0, 5: 3.0, 4: 1.0, 10: 0.0, 1: 2.0, 6: 0.0, 9: 1.0, 2: 2.0, 7: 0.0, 3: 6.0, 8: 0.0, 11: 2.0}

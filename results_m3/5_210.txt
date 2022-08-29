@@ -1,0 +1,49 @@
+
+Gurobi 9.5.2 (linux64) logging started Fri Aug 26 10:55:27 2022
+
+Set parameter LogFile to value "/home/lily/srp_experiment/results_m3/5_210.txt"
+Gurobi Optimizer version 9.5.2 build v9.5.2rc0 (linux64)
+Thread count: 14 physical cores, 28 logical processors, using up to 4 threads
+Optimize a model with 416 rows, 1788 columns and 5116 nonzeros
+Model fingerprint: 0x4409f00d
+Variable types: 60 continuous, 1728 integer (1728 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 5e+02]
+  Objective range  [1e+01, 1e+02]
+  Bounds range     [1e+00, 8e+02]
+  RHS range        [1e+00, 8e+02]
+
+User MIP start produced solution with objective 466 (0.00s)
+Loaded user MIP start with objective 466
+
+Presolve removed 168 rows and 1420 columns
+Presolve time: 0.07s
+Presolved: 248 rows, 368 columns, 1704 nonzeros
+Variable types: 29 continuous, 339 integer (321 binary)
+
+Root relaxation: objective 4.260000e+02, 226 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     426.0000000  426.00000  0.00%     -    0s
+
+Explored 1 nodes (226 simplex iterations) in 0.07 seconds (0.05 work units)
+Thread count was 4 (of 28 available processors)
+
+Solution count 2: 426 466 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.260000000000e+02, best bound 4.260000000000e+02, gap 0.0000%
+
+User-callback calls 679, time in user-callback 0.00 sec
+
+Optimal tour: [0, 4, 3, 8, 2, 9, 7, 5, 10, 1, 6, 11]
+Seats changes: {0: 0.0, 4: 3.0, 3: -2.0, 8: 2.0, 2: -4.0, 9: 2.0, 7: 0.0, 5: 1.0, 10: 0.0, 1: -2.0, 6: -3.0, 11: -0.0}
+Optimal cost: 426.0
+total time: 0.1
+Final MIP gap value:0.0
+time to find feasible solution is 0.07493400573730469
+Checking:
+Remaining cargo space:{0: 500.0, 4: 500.0, 3: 0.0, 8: 0.0, 2: 0.0, 9: 100.0, 7: 100.0, 5: 400.0, 10: 300.0, 1: 300.0, 6: 0.0, 11: 800.0}
+Remaining passenger space:{0: 3.0, 4: 3.0, 3: 6.0, 8: 0.0, 2: 6.0, 9: 0.0, 7: 2.0, 5: 4.0, 10: 0.0, 1: 5.0, 6: 3.0, 11: 0.0}
