@@ -133,7 +133,9 @@ def enforce_vehicle_capacity_check(cargo_cap, pass_cap, C, Q,L,V_0N1):
 
 def check_cp_output(inst_dir, csv_file, inst_name, have_solution, itvs, pi, change_of_seats):
     
-    checker_dir = "/home/lily/srp_experiment/results_cp/checker"
+    # checker_dir = "/home/tan/srp_experiment/results_cp/checker"
+    checker_dir = os.path.join(os.getcwd(), "results_cp/checker/")
+
     path = checker_dir
 
     # Check whether the specified path exists or not

@@ -27,7 +27,8 @@ from models.model_cp import pick_most_seats, n_dist_matrix, gurobi_upperbound
 #     return satisfied
 
 # get_solution_search_next(msol_all)
-instance_directory = "/home/lily/srp_experiment/new_instance_2000/"
+instance_directory = os.path.join(os.getcwd(), "new_instance_2000/")
+# instance_directory = "/home/lily/srp_experiment/new_instance_2000/"
 number_of_infeasible_instances = 0
 for inst_name in os.listdir(instance_directory):
 

@@ -160,7 +160,8 @@ def build_and_solve(time_limit, points, q, p, n, seat_max, L, config_0_seat, con
     # msol = mdl.solve(mdl, TimeLimit = time_limit)
     
     # Initiate the solving process with a Callback function that is triggered every time a new solution is found
-    solver = CpoSolver(mdl, TimeLimit = time_limit)
+    solver = CpoSolver(mdl, TimeLimit = time_limit,
+                      execfile='/opt/ibm/ILOG/CPLEX_Studio201/cpoptimizer/bin/x86-64_linux/cpoptimizer')
 
     msol = []
     has_next_sol = True
