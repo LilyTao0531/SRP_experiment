@@ -10,5 +10,6 @@ a = Experiment("/home/lily/srp_experiment/")
 
 a.check_feasibility([5], ['cp'], 10)
 
+
 # a.compare_re([2000], ['cp', 'm3'], time_lim = 60, time_increment = 0.01)
 

@@ -47,6 +47,7 @@ def get_time_feas(model, where):
 
 
 def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_requests, passenger_requests, L):
+
     '''
 
     This is the MILP model that returns upper bound solution.
@@ -67,15 +68,18 @@ def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_
     t = m.addVars(Big_M+1,vtype=GRB.CONTINUOUS, name='t') # arrival time at vertex i
     # m.addConstr(t[0] == 0)
     s = m.addVars(Big_M+1, vtype = GRB.CONTINUOUS, name = "num_seats") # Number of seats at each location
+
     
     for i in V:
         m.addConstr( s[i] <= S_hat, "Max_seat_capacity"+ str(i))
         m.addConstr( s[i] <= C_hat/L  + S_hat - cargo_requests[i]/L, "Maximum_seat_capacity_due_to_cargos"+ str(i))
         m.addConstr( s[i] >= passenger_requests[i], "Enough_seats_for_passenger"+ str(i))
     m.addConstr(s[0] >= config_0_seat)
+
     m.addConstr(s[0] <= config_0_seat + seats_0[0]) # The aircraft can pick up some seats at the starting depot too
 
     # Add/Drop seats as the aircraft travels to a new location
+
     for i in V_N1:
         for j in V_N1:
             m.addConstr( s[j] <= s[i] + vars[(i,j)]*(seats_0[i+Big_M]+seats_0[j])+S_hat*(1-vars[(i,j)]), "Adding_max_seats"+ str(i))
@@ -94,6 +98,7 @@ def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_
     
 
     # Arrival time keeps increasing, which also indicates the direction in which the aircraft is travelling.
+
     for i in V_N1:
         for j in V_N1:
             if i!=j:
@@ -111,6 +116,7 @@ def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_
     m.setObjective(sum(vars[(i,j)]*dist[(i,j)] for i in V for j in V if i !=j),GRB.MINIMIZE)
     
     # Below are all copied from Arnoosh's code.
+
     
     m.Params.LogToConsole = 0
     # m.setParam('TimeLimit', time_lim)
@@ -126,6 +132,7 @@ def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_
     m.optimize(get_time_feas)
 
 
+
     # Convert the solution object into numbers
     vals = m.getAttr('x', vars)
     selected = gp.tuplelist((i, j) for i, j in vals.keys() if vals[i, j] > 0.5)
@@ -134,6 +141,7 @@ def gurobi_upperbound(points, dist, seats_0, config_0_seat, S_hat, C_hat, cargo_
     
     obj_val = m.objVal
     # Total distance traveled
+
     for i in range(len(tour)):
         obj_val = obj_val + dist[(tour[i], tour[i])]
     return obj_val, tour
